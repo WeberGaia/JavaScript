@@ -1,0 +1,9 @@
+JAVASCRIPT
+------------------------------------
+TIPOS DE DADOS PRIMITIVOS
+* NUMEROS => NUMBER => const var = 3;
+* STRING => Para uma citação, abre-se a cadeia de caractere com aspas simples, coloca no meio com dupla e fecha com simples ou vice e versa.
+    * Unicode => https://home.unicode.org/
+    * toLowerCase() => Letras maiúsculas.
+    * length() => Tamanho da cadeia de caracteres
+* BOOLEANO
